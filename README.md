@@ -61,6 +61,8 @@ Antes de executar o projeto, você precisa ter o Node.js instalado em sua máqui
    
    ```bash
    npm install
-   
-3. ```bash
+
+3. (Opcional) Para garantir que você tenha os tipos necessários, instale as definições de tipo:
+    
+  ```bash
     npm install --save-dev @types/puppeteer @types/express @types/node @types/fs-extra
